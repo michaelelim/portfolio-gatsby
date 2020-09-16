@@ -1,23 +1,30 @@
 ---
-title: "About"
-date: "2018-07-19"
-author: "Radek"
+title: "About Me"
+date: "2020-09-16"
+author: "Michael Lim"
 path: "/about"
 ---
 
 ## Hi there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+My name is Michael and I'm the author of this portfolio. I made it in order to learn the basics of Gatsby.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I understand that the life of a web developer is that of constant learning, because there will always be a new programming language, extension, or technique.  If you don't constantly learn, you may be left behind.
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+As of this date (2020-09-16) I am comfortable with the following:
 
-The starter includes:
+- HTML
+- CSS
+- SASS
+- Javascript
+- React.js
+- Node.js
+- Express
+- Websockets
+- Socket.io
+- DOM and Web APIs
+- MySQL
+- Git
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
-
-So, there you have it... enjoy!
+And thanks to Panr (who created this Starter), I am learning Gatsby!
+So, there you have it... thanks for reading!

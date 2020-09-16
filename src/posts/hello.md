@@ -1,19 +1,19 @@
 ---
-title: "Hello Friend"
+title: "Hello There!"
 path: "/hello"
-date: "2019-01-17"
+date: "2020-09-16"
 coverImage: "../images/hello.jpg"
-author: "Elliot"
-excerpt: '"Hello, friend?" That''s lame. Maybe I should give you a name...'
-tags: ["rob____ot", "hello friend"]
+author: "Michael Lim"
+excerpt: 'Hello there!  Welcome to the Gatsby version of my portfolio.'
+tags: ["hellothere", "gatsby-portfolio", "portfolio"]
 ---
 
-> "Hello, friend?" That's lame. Maybe I should give you a name...\
-> But that's a slippery slope.\
-> You're only in my head.\
-> We have to remember that...\
-> Shit.\
-> It's actually happened.\
-> I'm talking to an imaginary person.
+> "Hello there" Welcome to the Gatsby version of my portfolio.\
+> I'm a web developer!\
+> But I'm also a process specialist,\
+> and a parent,\
+> and a lifelong learner,\
+> and a basketball loving, ultimate frisbee playing, sport lover.\
+> I'm basically just a person trying to enjoy life to it's fullest.
 >
-> **— Mr. Robot S01E01**
+> **— Limbo chronicles S01E01**
