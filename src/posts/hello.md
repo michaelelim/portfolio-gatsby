@@ -16,4 +16,4 @@ tags: ["hellothere", "gatsby-portfolio", "portfolio"]
 > and a basketball loving, ultimate frisbee playing, sport lover.\
 > I'm basically just a person trying to enjoy life to it's fullest.
 >
-> **— Limbo chronicles S01E01**
+> **— Limbo Chronicles S01E01**
