@@ -5,11 +5,32 @@ author: "Michael Lim"
 path: "/portfolio"
 ---
 
-## Header 2
+## You Don't Know Diddly Squat
+**https://michaelelim-capstone-4p.netlify.app/**
 
-Backup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.
+You Don't Know Diddly Squat is an online multiplayer quiz game.
+As a life-long gaming enthusiast, a game would be an enjoyable way to hone my skills. 
+Multiplayer online gaming can bring fun and enjoyment.
+Connect us with many people, including family, friends, and fellow gamers.
+As a parent, I wanted to have a gave that could be played by the whole family.
+Finally, I wanted to have a game that you could play during zoom calls.
 
-> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.
+Using the following tech:
+- HTML
+- CSS
+- SASS
+- Javascript
+- React.JS
+- Node.JS
+- Express
+- Websockets
+- Socket.IO
+- Trivia API
+- Git
+- Netlify
+- Heroku
+
+`youtube: trd6syJrSp0`
 
 ### Header 3
 
