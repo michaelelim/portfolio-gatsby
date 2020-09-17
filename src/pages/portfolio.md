@@ -1,8 +1,8 @@
 ---
-title: "Showcase"
+title: "Portfolio"
 date: "2020-09-17"
 author: "Michael Lim"
-path: "/showcase"
+path: "/portfolio"
 ---
 
 ## Header 2
