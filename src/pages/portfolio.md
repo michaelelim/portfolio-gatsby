@@ -36,6 +36,10 @@ Using the following tech:
 
 Brute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.
 
+- Anonymous boot up website AFK.
+  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.
+  - Reboot sys admin worm log file wipe.
+
 ```css
 /* PostCSS code by PrismJS */
 
@@ -93,18 +97,3 @@ window.addEventListener('resize', isMobileMenu)
   </div>
 </section>
 ```
-
-#### Header 4
-
-Traffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.
-
-- Fsociety delete malicious code nodes.
-- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.
-- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.
-- Anonymous boot up website AFK.
-  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.
-  - Reboot sys admin worm log file wipe.
-
-`youtube: xIBiJ_SzJTA`
-
-Tor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.
