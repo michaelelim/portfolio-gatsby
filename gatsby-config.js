@@ -30,8 +30,8 @@ module.exports = {
         path: '/portfolio',
       },
       {
-        title: 'Example',
-        path: '/example',
+        title: 'Limbo Thoughts',
+        path: '/limbothoughts',
       },
     ],
   },

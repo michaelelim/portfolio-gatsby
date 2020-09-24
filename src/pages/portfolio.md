@@ -6,6 +6,8 @@ path: "/portfolio"
 ---
 
 ## You Don't Know Diddly Squat
+
+`youtube: trd6syJrSp0`
 **https://michaelelim-capstone-4p.netlify.app/**
 
 You Don't Know Diddly Squat is an online multiplayer quiz game.
@@ -30,15 +32,21 @@ Using the following tech:
 - Netlify
 - Heroku
 
-`youtube: trd6syJrSp0`
 
-### Header 3
 
-Brute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.
+### Bell Hackathon
 
-- Anonymous boot up website AFK.
-  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.
-  - Reboot sys admin worm log file wipe.
+`24 hour hackathon presented to Bell.`
+
+The chosen topic was mental health, addiction and video games. 
+
+Using the following tech:
+  - HTML
+  - CSS
+  - SASS
+  - Javascript
+  - Git
+  - Netlify
 
 ```css
 /* PostCSS code by PrismJS */

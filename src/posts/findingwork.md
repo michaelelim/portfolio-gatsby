@@ -1,6 +1,6 @@
 ---
 title: "Covid and finding work as a Jr. Dev"
-date: "2020-09-17"
+date: "2020-09-15"
 path: "/limbothoughts"
 author: "Michael Lim"
 excerpt: "In the world of Covid without a vaccine, there are many challenges that
