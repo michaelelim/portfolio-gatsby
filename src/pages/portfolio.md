@@ -32,11 +32,10 @@ Using the following tech:
 - Netlify
 - Heroku
 
-
-
 ### Bell Hackathon
-
 `24 hour hackathon presented to Bell.`
+
+![Bell Hackathon Screenshot](../images/bellhackathon.png)
 
 The chosen topic was mental health, addiction and video games. 
 
@@ -48,36 +47,8 @@ Using the following tech:
   - Git
   - Netlify
 
-```css
-/* PostCSS code by PrismJS */
-
-pre {
-  background: #1a1a1d;
-  padding: 20px;
-  border-radius: 8px;
-  font-size: 1rem;
-  overflow: auto;
-
-  @media (--phone) {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
-
-  code {
-    background: none !important;
-    color: #ccc;
-    padding: 0;
-    font-size: inherit;
-
-    .dark-theme & {
-      color: inherit;
-    }
-  }
-}
-```
-
-```js
-// JS code by PrismJS
+<!-- ```js
+// Example code
 
 const menuTrigger = document.querySelector('.menu-trigger')
 const menu = document.querySelector('.menu')
@@ -93,15 +64,4 @@ isMobileMenu()
 menuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))
 
 window.addEventListener('resize', isMobileMenu)
-```
-
-```html
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
-```
+``` -->
