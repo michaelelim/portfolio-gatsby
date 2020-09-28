@@ -7,9 +7,11 @@ path: "/about"
 
 ## Hi there
 
-My name is Michael and I'm the author of this portfolio. 
+My name is Michael.  I have a wonderful family of 4, and my life goal is provide for their happiness.
 
-I made it in order to learn the basics of Gatsby.
+![Me and the kids at the beach](../images/mewkids.jpg)
+
+As the author of this portfolio, I made it in order to learn the basics of Gatsby.
 
 I understand that the life of a web developer is that of constant learning, because there will always be a new programming language, extension, or technique.  If you don't constantly learn, you may be left behind.
 
