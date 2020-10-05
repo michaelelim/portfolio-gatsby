@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: "2020-09-16"
+date: "2020-10-02"
 author: "Michael Lim"
 path: "/about"
 ---
@@ -15,7 +15,7 @@ As the author of this portfolio, I made it in order to learn the basics of Gatsb
 
 I understand that the life of a web developer is that of constant learning, because there will always be a new programming language, extension, or technique.  If you don't constantly learn, you may be left behind.
 
-As of this date (2020-09-16) I am comfortable with the following:
+As of this date (2020-10-02) I am comfortable with the following:
 
 - HTML
 - CSS

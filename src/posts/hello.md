@@ -1,7 +1,7 @@
 ---
 title: "Hello There!"
 path: "/hello"
-date: "2020-09-16"
+date: "2020-10-05"
 coverImage: "../images/hello.jpg"
 author: "Michael Lim"
 excerpt: 'Hello there!  Welcome to the Gatsby version of my portfolio.'
