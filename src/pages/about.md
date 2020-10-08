@@ -1,22 +1,30 @@
 ---
 title: "About Me"
-date: "2020-10-02"
+date: "2020-10-07"
 author: "Michael Lim"
 path: "/about"
 ---
 
 ## Hi there
 
-My name is Michael.  I have a wonderful family of 4, and my life goal is provide for their happiness.
+My name is Michael.  I have a wonderful family of 4, and my life goal is their happiness.
 
 ![Me and the kids at the beach](../images/mewkids.jpg)
 
-As the author of this portfolio, I made it in order to learn the basics of Gatsby.
+I understand that in order to make strides in my career, I must constantly learning, because there will always be a new technology, skill or technique.  If you aren't learning, you may be left behind.
 
-I understand that the life of a web developer is that of constant learning, because there will always be a new programming language, extension, or technique.  If you don't constantly learn, you may be left behind.
+Thus, in addition to having a portfolio that you are currently reading, I made this version specifically to learn the basics of Gatsby.
 
-As of this date (2020-10-02) I am comfortable with the following:
+I also made a Wordpress version (to learn the basics of wordpress) here:
+**https://michaelelim.wordpress.com**
 
+My main skills are the following: 
+- Process Management
+- Web Development
+- Digital Marketing
+- Project Management
+
+As of this date (2020-10-07) my tech stack is as follows:
 - HTML
 - CSS
 - SASS

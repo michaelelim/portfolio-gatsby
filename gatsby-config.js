@@ -18,7 +18,7 @@ module.exports = {
     logoText: 'outinlimbo',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 2,
+    showMenuItems: 3,
     menuMoreText: 'Show more',
     mainMenu: [
       {
@@ -26,12 +26,20 @@ module.exports = {
         path: '/about',
       },
       {
+        title: 'Resume',
+        path: '/resume',
+      },
+      {
         title: 'Portfolio',
         path: '/portfolio',
       },
       {
-        title: 'Limbo Thoughts',
-        path: '/limbothoughts',
+        title: 'Elevator Pitch',
+        path: '/elevatorpitch',
+      },
+      {
+        title: 'Finding Work',
+        path: '/findingwork',
       },
     ],
   },

@@ -12,10 +12,10 @@ const Footer = ({ copyrights }) => (
     ) : (
       <>
         <span className="footerCopyrights">
-          © 2019 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
+          I'm looking for a new career!
         </span>
         <span className="footerCopyrights">
-          Starter created by <a href="https://radoslawkoziel.pl">panr</a>
+          <a href="mailto:michaelelim@gmail.com?subject=Portfolio%20Interest">Contact Me</a>
         </span>
       </>
     )}

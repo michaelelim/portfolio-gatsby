@@ -5,6 +5,8 @@ author: "Michael Lim"
 path: "/portfolio"
 ---
 
+**These are two examples of the projects I completed for the Web Dev course at BrainStation**
+
 ## You Don't Know Diddly Squat
 
 `youtube: trd6syJrSp0`
