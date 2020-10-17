@@ -41,6 +41,10 @@ module.exports = {
         title: 'Finding Work',
         path: '/findingwork',
       },
+      {
+        title: 'Be Resilient',
+        path: '/resilient',
+      },
     ],
   },
   plugins: [
