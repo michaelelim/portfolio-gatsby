@@ -7,9 +7,8 @@ path: "/portfolio"
 
 **I have created two more portfolios in order to learn different skills**
 
-Wordpress Version: https://michaelelim.wordpress.com/
-
-Vanilla React: https://michaelelim-react.netlify.app/
+- Wordpress Version: https://michaelelim.wordpress.com/
+- Vanilla React: https://michaelelim-react.netlify.app/
 
 **These are two examples of the projects I completed for the Web Dev course at BrainStation**
 
