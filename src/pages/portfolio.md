@@ -1,9 +1,15 @@
 ---
 title: "Portfolio"
-date: "2020-09-30"
+date: "2020-10-05"
 author: "Michael Lim"
 path: "/portfolio"
 ---
+
+**I have created two more portfolios in order to learn different skills**
+
+Wordpress Version: https://michaelelim.wordpress.com/
+
+Vanilla React: https://michaelelim-react.netlify.app/
 
 **These are two examples of the projects I completed for the Web Dev course at BrainStation**
 
@@ -14,9 +20,8 @@ path: "/portfolio"
 
 You Don't Know Diddly Squat is an online multiplayer quiz game.
 As a life-long gaming enthusiast, a game would be an enjoyable way to hone my skills. 
-Multiplayer online gaming can bring fun and enjoyment.
-Connect us with many people, including family, friends, and fellow gamers.
-As a parent, I wanted to have a gave that could be played by the whole family.
+Multiplayer online gaming can bring fun and enjoyment with many people, including family, friends, and fellow gamers.
+As a parent, I wanted to have a game that could be played by the whole family.
 Finally, I wanted to have a game that you could play during zoom calls.
 
 Using the following tech:
