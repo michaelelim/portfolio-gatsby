@@ -1,7 +1,7 @@
 ---
 title: "Hello There!"
 path: "/hello"
-date: "2020-10-08"
+date: "2020-10-30"
 coverImage: "../images/hello.jpg"
 author: "Michael Lim"
 excerpt: 'Hello there!  Welcome to my portfolio!'
@@ -10,9 +10,8 @@ tags: ["hellothere", "portfolio", "gatsby"]
 
 "Hello there" Welcome to the Gatsby version of my portfolio.
 
-> I'm a developer!\
-> However, I'm also a process specialist,\
-> and a digital marketer,\
+> I'm a business process and web developer!\
+> However, I'm also a digital marketer,\
 > and a project manager,\
 > and a parent,\
 > and a lifelong learner,\

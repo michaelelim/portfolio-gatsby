@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: "2020-10-07"
+date: "2020-10-23"
 author: "Michael Lim"
 path: "/resume"
 ---

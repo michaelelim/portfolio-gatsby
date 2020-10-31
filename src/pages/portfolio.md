@@ -1,12 +1,13 @@
 ---
 title: "Portfolio"
-date: "2020-10-05"
+date: "2020-10-26"
 author: "Michael Lim"
 path: "/portfolio"
 ---
 
 **I have created two more portfolios in order to learn different skills**
 
+- Gatsby Version: This portfolio!
 - Wordpress Version: https://michaelelim.wordpress.com/
 - Vanilla React: https://michaelelim-react.netlify.app/
 

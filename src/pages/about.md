@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: "2020-10-07"
+date: "2020-10-28"
 author: "Michael Lim"
 path: "/about"
 ---
