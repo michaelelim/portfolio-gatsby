@@ -15,8 +15,10 @@ I understand that in order to make strides in my career, I must constantly learn
 
 Thus, in addition to having a portfolio that you are currently reading, I made this version specifically to learn the basics of Gatsby.
 
-I also made a Wordpress version (to learn the basics of wordpress) here:
-**https://michaelelim.wordpress.com**
+I also made different versions of my portfolio to learn new skills.
+
+> Wordpress version: **https://michaelelim.wordpress.com**\
+> Vanilla React version: **https://michaelelim-react.netlify.app**
 
 My main skills are the following: 
 - Process Management
