@@ -1,6 +1,6 @@
 ---
 title: "The Elevator Pitch"
-date: "2020-10-24"
+date: "2020-11-01"
 path: "/elevatorpitch"
 author: "Michael Lim"
 excerpt: "Pitching yourself in the time it takes to get to your floor

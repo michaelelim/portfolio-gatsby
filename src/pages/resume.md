@@ -7,7 +7,7 @@ path: "/resume"
 
 ## SKILLS
 
-Business Solutions, Process Management, Web Development, Digital Marketing, Project Management
+Business Solutions, Process Management, Web Development, Digital Marketing, Project Management, Content Management
 
 ## EXPERIENCE
 

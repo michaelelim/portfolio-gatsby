@@ -1,6 +1,6 @@
 ---
 title: "Covid and Finding Work"
-date: "2020-10-28"
+date: "2020-11-15"
 path: "/findingwork"
 author: "Michael Lim"
 excerpt: "In the world of Covid without a vaccine, there are challenges in pursuit of the new career."

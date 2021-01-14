@@ -1,7 +1,7 @@
 ---
 title: "Be resilient"
 path: "/resilient"
-date: "2020-10-25"
+date: "2020-11-08"
 author: "Michael Lim"
 excerpt: 'After a few months of not finding a job, it can become a mental battle.'
 tags: ["resilient", "jobhunt", "mentalbattle"]
