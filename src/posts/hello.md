@@ -19,4 +19,4 @@ tags: ["hellothere", "portfolio", "gatsby"]
 > and a basketball loving, ultimate frisbee playing, sport lover.\
 > I'm basically just a person trying to enjoy life to it's fullest!
 >
-> **— Michael - Limbo Chronicles**
+> **— Michael Lim**
