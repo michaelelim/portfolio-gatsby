@@ -14,19 +14,19 @@ It can very difficult to take the plunge and leave your current career path and 
 Before taking the leap, you have to ensure that your life is in order.  
 
 In particular, you should have the following in your life:
-- 6+ months of savings 
+- 6+ months of savings
+- The proper education/credentials/network to pursue the new career 
 - Grounded headspace
 - Household buy-in
 - No big ticket purchases on the horizon
 
 **It is important to ensure that all this is in order, or you may lose everything in pursuit of your new career.**
 
-As in every decision you make, do not make any rash decisions!  It is entirely possible that your lack of finding a job is out of your control.  Perhaps there's a terrible disease called COVID, that is making a job market especially tough?  
+As in every decision you make, do not make a career change with fully weighing the pros and cons!  There are risks with finding a new career, and unless you already have the job lined up, you may not be able to slide right into the new field.  
 
-Most importantly, you have to build resiliency to draughts.  
+Talk to people that you trust whether it's family, a friend, or a mentor.
+Otherwise, get professional advice prior to proceeding.
 
-Have someone you can get advice from, whether it's family, a friend, or a mentor.
-Take a mental break, because it can be daunting to think about finding a job at every waking moment.
-Finally, always believe in yourself.  Once you stop believing, you can't put your best foot forward, and you will make the job hunt even more difficult. 
+As per everything you do, you need to think positively.  Once you stop believing in yourself, there is no way that you should make a life-altering move like a career change until you can get back in a positive headspace. 
 
-Good luck, and be resilient!
+Good luck, and be safe!
