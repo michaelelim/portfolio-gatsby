@@ -9,7 +9,7 @@ tags: ["newcareer", "jobhunt", "mentalbattle"]
 
 It can very difficult to take the plunge and leave your current career path and explore other career choices. 
 
-![Looking for jobs](../images/codingbasketball.jpg)
+![Looking for jobs](../images/career.jpg)
 
 Before taking the leap, you have to ensure that your life is in order.  
 
