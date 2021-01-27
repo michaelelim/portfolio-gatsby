@@ -14,11 +14,11 @@ It can very difficult to take the plunge and leave your current career path and 
 Before taking the leap, you have to ensure that your life is in order.  
 
 In particular, you should have the following in your life:
-- 6+ months of savings
-- The proper education/credentials/network to pursue the new career 
-- Grounded headspace
-- Household buy-in
-- No big ticket purchases on the horizon
+- 6+ months of savings (Ensures you have a financial cushion should you be unable to find a job quickly)
+- The proper education/credentials/network to pursue the new career (It is always more difficult to find a job in a new field)
+- Grounded headspace (Positivity leads to better job choices/interviews/outcomes)
+- Household buy-in (You want your immediate family in your corner to help motivate you and push you forward)
+- No big ticket purchases on the horizon (Being strapped for cash will dash your dreams in a heartbeat)
 
 **It is important to ensure that all this is in order, or you may lose everything in pursuit of your new career.**
 
