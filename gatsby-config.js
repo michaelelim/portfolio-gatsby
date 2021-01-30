@@ -45,6 +45,10 @@ module.exports = {
         title: 'Be Resilient',
         path: '/resilient',
       },
+      {
+        title: 'Career Pivot',
+        path: '/career',
+      },
     ],
   },
   plugins: [
