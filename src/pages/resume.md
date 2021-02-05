@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: "2020-10-23"
+date: "2021-02-01"
 author: "Michael Lim"
 path: "/resume"
 ---
@@ -10,6 +10,12 @@ path: "/resume"
 Business Solutions, Process Management, Web Development, Digital Marketing, Project Management, Content Management
 
 ## EXPERIENCE
+
+**JOB DEVELOPER  | Agilec | FEB 2021 - Present**
+
+- **Act as a liaison for employers to find quality job seekers.**
+
+  *Build a foundation of trust with employers, facilitating their job seeker needs.*
 
 **TECHNICAL SERVICE SPECIALIST  |  Matheis Financial Group  |  FEB 2018 - MAY 2019**
 
